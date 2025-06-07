@@ -1,0 +1,1 @@
+Your context document. The context document provides the information Aplora needs to fill out forms, like a resume or other key details. It acts as a guide, helping the system match the right data to the right fields with accuracy and ease.
